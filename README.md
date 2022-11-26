@@ -1,6 +1,6 @@
 # Wordsbook
 
 #node wordsbook
-(node "node filename")
+("node filename")
 
 
